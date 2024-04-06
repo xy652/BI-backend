@@ -40,8 +40,8 @@ mybatis-plus:
 # 鱼聪明 AI 配置（https://yucongming.com/）
 yuapi:
   client:
-    access-key: xvkbwvxjc5n0c1swt7cf38dtgystfsq9
-    secret-key: 0rouazh7134lp2ai8zc2yy34cxer5n0m
+    access-key: 替换为自己对应的值
+    secret-key: 替换为自己对应的值
 
 rabbitmq:
   host: localhost
